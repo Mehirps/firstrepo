@@ -2,3 +2,4 @@ this is new branch file
 
 added it to new repository
 this is change   for pull command
+this is main file of b
